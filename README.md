@@ -1,5 +1,5 @@
 # HairStyle
-https://sun9-9.userapi.com/jYEYAMVxOGb1Gw7jqNoxT7OvHkC1vdxC_TRHmA/QqXYSWbhmww.jpg
+![](https://sun9-9.userapi.com/jYEYAMVxOGb1Gw7jqNoxT7OvHkC1vdxC_TRHmA/QqXYSWbhmww.jpg)
 ## Purpos 
 HairStyle is a project designed on ReactJS to demonstrate diffrent hairstyles on images. It implemented 10 basic hairstyles and 10 colors. 
  
